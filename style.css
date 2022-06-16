@@ -1,8 +1,13 @@
-h1{
+.heading{
   background-color: teal;
   color:wheat;
   border: 1px solid salmon;
 }
-.heading{
+#root{
   text-align: center;
+}
+#root>button{
+  background-color: teal;
+  color:wheat;
+  border: 1px solid salmon;
 }
